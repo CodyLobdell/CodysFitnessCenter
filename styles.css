@@ -79,3 +79,35 @@ header{
     background-color:lightblue;
 }
 
+main p{
+    font-size: 23px;
+    margin-top: 33px;
+    color:white;
+}
+
+.lower {
+    display: inline-block;
+    max-width: 40%;
+    margin: 12px;
+    text-align: center;
+    background-color: darkgrey;
+}
+
+.lower img {
+    width: 80%;
+    margin: 10ps;
+}
+
+.lower p {
+    color:midnightblue
+}
+
+footer{
+    text-align:center;
+    background-color: darkgray;
+    height: 100px;
+}
+
+footer p{
+    padding-top: 40px;
+}
