@@ -58,16 +58,31 @@ main {
     border: 4px black;
 }
 
+#secondimage:hover{
+    border-radius: 0px;
+    border: 4px black 
+}
+
 #thirdimage{
     width: 200px;
     height: 100px auto;
     border: 4px black;
 }
 
+#thirdimage:hover{
+    border-radius: 0px;
+    border: 4px black 
+}
+
 #forthimage{
     width: 200px;
     height: 100px auto;
     border: 4px black;
+}
+
+#forthimage:hover{
+    border-radius: 0px;
+    border: 4px black 
 }
 
 header{
