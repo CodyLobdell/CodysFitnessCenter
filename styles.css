@@ -22,3 +22,8 @@ header{
     margin-bottom: 50px;
     background-color:lightblue;
 }
+
+.small{
+    background-color:beige;
+    width: 25%;
+}
