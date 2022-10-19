@@ -2,6 +2,14 @@ body {
     background-color:wheat;
 }
 
-img {
-    height: 500px
+#topimage{
+    height: 400px;
+}
+
+#secondimage{
+    height: 200px;
+}
+
+#thirdimage{
+    height: 200px;
 }
