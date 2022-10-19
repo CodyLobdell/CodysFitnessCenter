@@ -1,6 +1,6 @@
 body {
     background-color:gray;
-    font-family:'Courier New', Courier, monospace;
+    font-family:"Times New Roman", Georgia, serif;
 }
 
 header{
@@ -13,7 +13,7 @@ header{
 }
 
 #secondimage{
-    height: 100px;
+    height: 200px;
 }
 
 #thirdimage{
