@@ -1,6 +1,11 @@
 body {
-    font: fantasy;
     background-color:gray;
+    font-family:'Courier New', Courier, monospace;
+}
+
+header{
+    background-color:cornflowerblue;
+    height: 100px;
 }
 
 #topimage{
