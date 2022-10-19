@@ -26,4 +26,5 @@ header{
 .small{
     background-color:beige;
     width: 25%;
+    display: inline-block;
 }
