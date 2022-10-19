@@ -95,8 +95,8 @@ header{
 }
 
 main p{
-    font-size: 23px;
-    margin-top: 33px;
+    font-size: 40px;
+    margin-top: 53px;
     color:white;
 }
 
@@ -110,7 +110,7 @@ main p{
 
 .lower img {
     width: 80%;
-    margin: 10ps;
+    margin: 10px;
 }
 
 .lower p {
