@@ -13,3 +13,8 @@ body {
 #thirdimage{
     height: 100px;
 }
+
+header{
+    border: 6px solid gray;
+    padding: 10px;
+}
