@@ -1,5 +1,3 @@
-# CodysFitnessCenter
-
 <!DOCTYPE html>
 <html>
   <head>
