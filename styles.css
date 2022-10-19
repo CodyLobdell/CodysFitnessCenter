@@ -15,7 +15,7 @@ h1{
     margin-left: 20px;
     margin-right: 50px;
     color:darkred;
-    text-shadow: 7px 7px 7px white; 
+    text-shadow: 7px 7px 7px black; 
 }
 
 ul{
@@ -47,16 +47,27 @@ main {
     border: 4px black;
 }
 
+#firstimage:hover{
+    border-radius: 0px;
+    border: 4px black 
+}
+
 #secondimage{
-    height: 200px;
+    width: 200px;
+    height: 100px auto;
+    border: 4px black;
 }
 
 #thirdimage{
-    height: 200px;
+    width: 200px;
+    height: 100px auto;
+    border: 4px black;
 }
 
 #forthimage{
-    height: 200px;
+    width: 200px;
+    height: 100px auto;
+    border: 4px black;
 }
 
 header{
@@ -68,8 +79,3 @@ header{
     background-color:lightblue;
 }
 
-.small{
-    background-color:beige;
-    width: 25%;
-    display: inline-block;
-}
