@@ -12,14 +12,21 @@
        if(usersName == "Jennifer"){
          console.log("Always thinking of you");
        } else {
-         console.log("Good Day!")
+         console.log("Good Day!");
        }
 
        let guess = prompt("Whats my favorite number? 0-20");
 
        if(guess == '19'){
          console.log("Wow! Good Guess!");
+       } else if (guess < 19){
+         console.log("Too Low");
+       } else if (guess >19){
+            console.log("Too High");
+       } else {
+         console.log("Is it the weekend yet?")
        }
+       
      </script>
 
      <header>
