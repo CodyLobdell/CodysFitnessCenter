@@ -3,7 +3,7 @@ function addTwoNumber(firstnumber, secondNumber) {
     console.log(sum);
 }
 
-function greetuser(){
+function greetUser(){
   let usersName = prompt("Whats your name?");
     if (usersName == ""){
     usersName = prompt("Seriously, go ahead and type it out!");
@@ -18,5 +18,8 @@ function askgym(){
       document.write("Then get ready to ROCK!" + yourName + "!");
     } else if (gymanswer == "no") {
       document.write("Whats stopping you?" + yourName + "?");
+    } else {
+        document.write("I'm sorry, I don't understand" + yourName + "...");
     }
+
 }
