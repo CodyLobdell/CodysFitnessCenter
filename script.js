@@ -5,7 +5,7 @@ function addTwoNumber(firstnumber, secondNumber) {
 
 function greetUser(){
   let usersName = prompt("Whats your name?");
-    if (usersName == ""){
+    while (usersName == ""){
     usersName = prompt("Seriously, go ahead and type it out!");
     }
     document.write("Hello " + usersName + "welcome to my page!");
