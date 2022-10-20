@@ -4,6 +4,7 @@
      <title>Codys Fitness Center</title>
   
      <link rel="stylesheet" href="styles.css">
+     <script> src="script.js"></script>
   </head>
   <body>
      <header>
@@ -15,18 +16,15 @@
           </ul>   
         </nav>
         <script>
-          greetUser();
+          askgym();
         </script>   
      </header>
 
      <main>
-       <script>let gymanswer = prompt("Are you ready for a change?");
-       if (gymanswer == "yes"){
-         document.write("Then get ready to ROCK!");
-       } else if (gymanswer == "no"){
-         document.write("Whats stopping you?")
-       }
-       </script>
+       <section>
+        <script>let yourName = greetUser();</script>
+       </section>
+
        <section>
          
          <article class="medium"></article>
