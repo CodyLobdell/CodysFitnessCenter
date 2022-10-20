@@ -8,7 +8,7 @@ function greetUser(){
     while (usersName == ""){
     usersName = prompt("Seriously, go ahead and type it out!");
     }
-    document.write("Hello " + usersName + "welcome to my page!");
+    document.write("Hello " + usersName + ", welcome to my page!");
     return usersName;
 }    
 
