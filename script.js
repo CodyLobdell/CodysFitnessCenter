@@ -12,7 +12,7 @@ function greetUser(){
     return usersName;
 }    
 
-function askgym(){
+function askgym(yourName){
   let gymanswer = prompt("Are you ready for a change?");
     if (gymanswer == "yes") {
       document.write("Then get ready to ROCK!" + yourName + "!");
