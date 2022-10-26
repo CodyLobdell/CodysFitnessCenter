@@ -23,3 +23,10 @@ function askgym(yourName){
     }
 
 }
+
+function imagerepeat(){
+  let numberanswer = prompt("Guess a number between 1-10");
+  for(let i = 0; i < numberanswer; i++){
+    document.write("<img src='ADIDAS_Pic.jpg' class='Adidas'>");
+  }
+}
